@@ -1,0 +1,28 @@
+seed: 42
+data:
+  root: data
+  train_jsonl: data/train.jsonl
+  val_jsonl: data/val.jsonl
+  max_frames: 128
+  image_size: 224
+  landmark_dim: 258
+  num_workers: 1
+model:
+  image_dim: 256
+  landmark_dim: 256
+  d_model: 256
+  nhead: 8
+  layers: 6
+  ff_dim: 1024
+  dropout: 0.1
+  num_sign_classes: 128
+  vocab_size: 5000
+  max_text_len: 64
+train:
+  epochs: 20
+  batch_size: 1
+  lr: 0.0002
+  weight_decay: 0.01
+  amp: true
+  grad_clip: 1.0
+  checkpoint_dir: checkpoints

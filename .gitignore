@@ -1,0 +1,24 @@
+# Local environments
+sunaenv/
+.venv/
+venv/
+
+# Other projects
+suman_daily_ai_assistant_v2/
+
+# Python
+__pycache__/
+*.pyc
+
+# Training artifacts
+checkpoints/
+data/videos/
+data/landmarks/
+.mlflow/
+
+# Secrets
+.env
+.env.*
+!.env.example
+# Local video files
+*.mp4

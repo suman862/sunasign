@@ -1,0 +1,1 @@
+{"video":"videos/example.mp4","landmarks":"landmarks/example.npy","text":"मलाई पानी चाहिन्छ।","segments":[[0,20],[21,50],[51,80]],"signer_id":"S002","split":"val"}
