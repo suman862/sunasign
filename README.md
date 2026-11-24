@@ -1,5 +1,5 @@
 
-## Demo
+## De
 
 ![SunaSign Demo](demo.gif)
 
@@ -7,7 +7,9 @@
 
 ##  SunaSign Architecture
 
-SunaSign is a multimodal, Transformer-based architecture for continuous sign language recognition and translation. It combines visual video features and body landmark information to generate text, which can subsequently be converted into speech.
+SunaSign is a multimodal, Transformer-based architecture for continuous sign language recognition and translation (*Sign language to AUDIO*) . It combines visual video features and body landmark information to generate text, which can subsequently be converted into speech.
+
+It would be very useful for those who can not speak and hear. 
 
 ![alt text](architecture.png)
 
