@@ -1,3 +1,4 @@
+#inference
 import argparse, yaml, cv2, numpy as np, torch
 from .model import SunaSign
 

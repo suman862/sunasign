@@ -1,5 +1,4 @@
 
-## De
 
 ![SunaSign Demo](demo.gif)
 

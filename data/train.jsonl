@@ -1,3 +1,3 @@
 {"video":"/home/suman/research/project/sunasign/video.mp4","landmarks":"landmarks/example.npy","text":"तपाईंको नाम के हो?","segments":[[0,20],[21,50],[51,80]],"signer_id":"S001","split":"train"}
 {"video":"/home/suman/research/project/sunasign/video.mp4","landmarks":"landmarks/example.npy","text":"तपाईंको नाम के हो?","segments":[[0,20],[21,50],[51,80]],"signer_id":"S001","split":"train"}
-{"video":"/home/suman/research/project/sunasign/video.mp4","landmarks":"landmarks/example.npy","text":"तपाईंको नाम के हो?","segments":[[0,20],[21,50],[51,80]],"signer_id":"S001","split":"train"}
+{"video":"/home/suman/research/project/sunasign/video.mp4","landmarks":"landmarks/example.npy","text":"तपाईंको नाम के हो?","segments":[[0,20],[21,50],[51,80]],"signer_id":"S001","split":"train"}#sample data
